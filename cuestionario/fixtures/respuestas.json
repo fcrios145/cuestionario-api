@@ -1,0 +1,9 @@
+[
+    {
+        "model": "cuestionario.respuesta",
+        "fields": {
+            "valor": "1",
+            "pregunta_id": "1"
+        }
+    }
+]
